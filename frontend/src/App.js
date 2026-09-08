@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const API = 'http://localhost:8000';
+const API = 'https://eyeonyou-api.onrender.com';
 
 const TABS = [
   { id:'email',    icon:'📧', label:'EMAIL',     type:'text', placeholder:'Enter email address (ex: user@gmail.com)' },
