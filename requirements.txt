@@ -107,3 +107,4 @@ opencv-python-headless
 python-whois
 dnspython
 python-multipart
+exifread
